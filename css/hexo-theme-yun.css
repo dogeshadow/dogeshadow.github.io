@@ -133,20 +133,20 @@ body::before {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url("https://i.loli.net/2021/01/28/EL7hedfkOKnaDQm.jpg");
+  background-image: url("https://i.loli.net/2021/02/03/kFlt4UI2vWzBVOc.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   animation-name: bgFadeIn;
   animation-duration: 2s;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 @-moz-keyframes bgFadeIn {
   from {
     opacity: 0;
   }
   to {
-    opacity: 0.8;
+    opacity: 0.9;
   }
 }
 @-webkit-keyframes bgFadeIn {
@@ -154,7 +154,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.8;
+    opacity: 0.9;
   }
 }
 @-o-keyframes bgFadeIn {
@@ -162,7 +162,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.8;
+    opacity: 0.9;
   }
 }
 @keyframes bgFadeIn {
@@ -170,7 +170,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 0.8;
+    opacity: 0.9;
   }
 }
 body {
@@ -1900,7 +1900,7 @@ pre[class*='language-']:hover .copy-btn {
     color: var(--hty-text-color);
   }
   :root:not([data-user-color-scheme]) body::before {
-    background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+    background-image: url("https://i.loli.net/2021/02/03/WLQKIp1V8kHzCth.jpg");
   }
   :root:not([data-user-color-scheme]) .char {
     background-color: rgba(0,0,0,0.5);
@@ -1976,7 +1976,7 @@ pre[class*='language-']:hover .copy-btn {
   color: var(--hty-text-color);
 }
 [data-user-color-scheme='dark'] body::before {
-  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/galaxy.jpg");
+  background-image: url("https://i.loli.net/2021/02/03/WLQKIp1V8kHzCth.jpg");
 }
 [data-user-color-scheme='dark'] .char {
   background-color: rgba(0,0,0,0.5);
