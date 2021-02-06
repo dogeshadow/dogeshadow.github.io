@@ -41,7 +41,7 @@
   text-transform: uppercase;
 }
 body {
-  font-family: Fira Code, '微软雅黑';
+  font-family: Fira Code, '思源宋体 CN';
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -214,7 +214,7 @@ input {
   bottom: 0;
 }
 .char {
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-size: var(--banner-char-size, 1rem);
   font-weight: 900;
   background-color: rgba(255,255,255,0.5);
@@ -647,7 +647,7 @@ input {
   padding-left: 0.6rem;
 }
 .link-item .link-blog {
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-weight: 900;
   margin: 0.42rem 0;
 }
@@ -1307,7 +1307,7 @@ pre[class*='language-']:hover .copy-btn {
   padding: 10px;
   font-size: 1.5rem;
   font-weight: 900;
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
 }
 .post-header .post-title .icon {
   width: 1.6rem;
@@ -1362,7 +1362,7 @@ pre[class*='language-']:hover .copy-btn {
 .markdown-body {
   color: var(--hty-text-color);
   font-weight: 400;
-  font-family: Fira Code, '微软雅黑';
+  font-family: Fira Code, '思源宋体 CN';
 }
 .markdown-body code,
 .markdown-body pre {
@@ -1586,7 +1586,7 @@ pre[class*='language-']:hover .copy-btn {
   line-height: 1.8;
   padding: 1rem;
   font-size: 1.1rem;
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
 }
 .post-toc ol {
   list-style: none;
@@ -1781,7 +1781,7 @@ pre[class*='language-']:hover .copy-btn {
 }
 .site-name {
   color: var(--hty-text-color);
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-weight: 900;
 }
 .site-subtitle {
@@ -1883,7 +1883,7 @@ pre[class*='language-']:hover .copy-btn {
   padding: 0.6rem 0;
 }
 #local-search-result ul.search-result-list li .search-result-title {
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-weight: 900;
   font-size: 1.2rem;
 }
@@ -1934,7 +1934,7 @@ pre[class*='language-']:hover .copy-btn {
   box-sizing: border-box;
   width: 90%;
   max-width: 800px;
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-weight: 900;
   text-align: center;
 }
@@ -1963,7 +1963,7 @@ pre[class*='language-']:hover .copy-btn {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: '华文宋体';
+  font-family: '思源宋体 CN';
   font-weight: bold;
   padding: 1rem;
   margin: 1rem auto;
