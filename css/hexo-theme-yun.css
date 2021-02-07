@@ -42,7 +42,7 @@
 }
 body {
   font-family: Fira Code, '思源宋体 CN';
-  font-weight: 400;
+  font-weight: 500;
   margin: 0;
   padding: 0;
   line-height: 2;
@@ -73,23 +73,23 @@ h6 {
 }
 h1 {
   font-size: 2.5rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 h2 {
   font-size: 2.2rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 h3 {
   font-size: 1.9rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 h5 {
   font-size: 1.3rem;
-  font-weight: 400;
+  font-weight: 500;
 }
 h6 {
   font-size: 1rem false;
@@ -1361,7 +1361,7 @@ pre[class*='language-']:hover .copy-btn {
 }
 .markdown-body {
   color: var(--hty-text-color);
-  font-weight: 400;
+  font-weight: 500;
   font-family: Fira Code, '思源宋体 CN';
 }
 .markdown-body code,
